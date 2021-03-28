@@ -1,2 +1,6 @@
 # Project exclude paths
 /target/
+.gitignore
+.idea
+pom.xml
+java-base.iml
